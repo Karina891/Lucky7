@@ -22,3 +22,4 @@ public class Lucky7 {
         scanner.close();
     }
 }
+// Kolmas commit: lisätty loppukommentti
